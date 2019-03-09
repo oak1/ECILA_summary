@@ -96,7 +96,7 @@
 
 - stylizer
 
-  ![stylizerextened](d:\Users\tim72\Documents\Docs\Alice\stylizerextened.jpg)
+  ![stylizerextened](stylizerextened.jpg)
 
   极简风格（低采样）+像素化
 
