@@ -88,19 +88,21 @@
 
 ### Preview
 
-![1552101955220](prev02.png)
+![1552101955220](img/prev02.png)
 
-![prev01](prev01.png)
+![prev01](img/prev01.png)
 
 ### Style Extensions
 
 - stylizer
 
-  ![stylizerextened](stylizerextened.jpg)
+  ![stylizerextened](img/stylizerextened.jpg)
 
   极简风格（低采样）+像素化
 
+- Low Poly
 
+  ![](img/sty2.png)
 
 
 
