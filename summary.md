@@ -84,19 +84,17 @@
 
 4. Misc
 
-   
-
+ <!--  
 ### Preview
-
 ![1552101955220](img/prev02.png)
-
 ![prev01](img/prev01.png)
+-->
 
 ### Style Extensions
 
 - stylizer
 
-  ![stylizerextened](img/stylizerextened.jpg)
+  <!--![stylizerextened](img/stylizerextened.jpg)-->
 
   极简风格（低采样）+像素化
 
