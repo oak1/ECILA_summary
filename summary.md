@@ -84,23 +84,28 @@
 
 4. Misc
 
- <!--  
+
 ### Preview
-![1552101955220](img/prev02.png)
-![prev01](img/prev01.png)
--->
+![](img/ECILA 2019-03-30 21-40-01_1.mp4_20200415_081213.470.jpg)
+![](img/ECILA 2019-03-30 21-40-01_1.mp4_20200415_081220.807.jpg)
+![](img/ECILA 2019-03-30 21-40-01_1.mp4_20200415_081227.750.jpg)
+![](img/ECILA 2019-03-30 21-40-01_1.mp4_20200415_081235.318.jpg)
+![](img/Sp_200415_081455.png)
+
+
+### Style Foward
+
+![](img/prev01.png)
+![](img/prev02.png)
 
 ### Style Extensions
 
 - stylizer
 
-  <!--![stylizerextened](img/stylizerextened.jpg)-->
-
   极简风格（低采样）+像素化
 
 - Low Poly
 
-  ![](img/sty2.png)
 
 
 
