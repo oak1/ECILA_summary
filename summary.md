@@ -24,7 +24,9 @@
 
 - Others
 
-  杂鱼，在视野范围内生成随机pattern的鱼类群组，可调参。`Env_GenerateMisc.cs`
+  ~~杂鱼，在视野范围内生成随机pattern的鱼类群组，可调参。`Env_GenerateMisc.cs`~~
+  
+  > 一种爆炸卡的解决方案：[直接Instance](https://gitee.com/lipengfeikk041kk/YuQunSuanFa/blob/master/YuQunSuanFa/Assets/Script/Yu.cs)，DEPRECATED
 
 - SkyBall
 
